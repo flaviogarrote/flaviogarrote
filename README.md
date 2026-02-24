@@ -5,7 +5,7 @@
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-1a73e8?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Openshift" src="https://img.shields.io/badge/-Openshift-DD0031?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Openshift" src="https://img.shields.io/badge/-Openshift-DD0031?style=flat-square&logo=redhatopenshift&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-F9A03C?style=flat-square&logo=amazon&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
