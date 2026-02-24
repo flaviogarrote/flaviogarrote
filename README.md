@@ -9,7 +9,7 @@
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-F9A03C?style=flat-square&logo=amazon&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Github" src="https://img.shields.io/badge/-Github-311C87?style=flat-square&logo=githubl&logoColor=white" />
+  <img alt="Github" src="https://img.shields.io/badge/-Github-311C87?style=flat-square&logo=github&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-43853d?style=flat-square&logo=jenkins&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Tekton" src="https://img.shields.io/badge/-Tekton-5849BE?style=flat-square&logo=tekton&logoColor=white" />
